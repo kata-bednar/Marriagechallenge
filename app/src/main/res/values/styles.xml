@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#EEEEEE</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#EEEEEE</item>
+    </style>
+    <style name="TeamNameSettingsA">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#D81860</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TeamNameSettingsB">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#1565C0</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="ScoreSettings">
+        <item name="android:textSize">52sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="ButtonSettings">
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginTop">3dp</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>item>
+    </style>
+</resources>
